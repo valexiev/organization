@@ -1,12 +1,15 @@
 ## Contribute
 
 ### Give suggestions & feedback
+Just drop us a line at info@hackafe.org or leave a note in our suggestion box in the lab.
+Any suggestions are welcome : )
 
 ### Join discussions
-- forum
+[forum](http://frm.hackafe.org/)
 
 ### Spread the word
-- [convert friends](https://wiki.ubuntu.com/ContributeToUbuntu#Converting_Friends)
+ - invite friends
+ - share links to Hackafe's website and events
 
 ### Donate
 - how to donate
@@ -17,13 +20,18 @@
 
 ### Share knowledge
 - form for course/presentation/workshop
-* single presentation
+* presentation
 * course
 * workshop
 
+### Develop software projects
+ - integrate a system for automating some processes in Hackafe
+ - maintain the website
+
+### Design web and print materials
+
 ### Help with tasks
 - open tasks
-* website
 * events
 * administrative
 * projects
